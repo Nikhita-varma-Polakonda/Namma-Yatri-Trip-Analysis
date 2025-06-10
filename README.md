@@ -1,5 +1,4 @@
 # Namma-Yatri-Trip-Analysis
-Project on Namma Yatri's trip data to uncover ride patterns, optimize operations, and drive strategic decision-making.
 
 ## 🚕 Namma Yatri Ride Data Analysis & Insights
 This project analyzes trip data from Namma Yatri, a major urban transport service in Bengaluru. Through detailed analysis, the goal is to uncover key insights around ride patterns, customer behavior, cancellations, and payment methods to guide operational and strategic improvements.
@@ -24,5 +23,5 @@ Recommend strategies for better resource allocation and customer engagement
 
 📈 Management Presentation (.pptx): Strategic insights and high-level recommendations for business leaders
 
-💡 This analysis supports data-driven decision-making to improve service efficiency, customer satisfaction, and revenue growth.
+### 💡 This analysis supports data-driven decision-making to improve service efficiency, customer satisfaction, and revenue growth.
 
