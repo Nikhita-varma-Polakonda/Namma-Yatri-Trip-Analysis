@@ -7,8 +7,11 @@ This project analyzes trip data from Namma Yatri, a major urban transport servic
 ## 🔍 Key Objectives
 
 Identify peak demand patterns and trends
+
 Understand cancellation reasons and driver performance
+
 Analyze payment method preferences and trip durations
+
 Recommend strategies for better resource allocation and customer engagement
 
 ## 📁 Project Deliverables
@@ -21,5 +24,5 @@ Recommend strategies for better resource allocation and customer engagement
 
 📈 Management Presentation (.pptx): Strategic insights and high-level recommendations for business leaders
 
-## 💡 This analysis supports data-driven decision-making to improve service efficiency, customer satisfaction, and revenue growth.
+💡 This analysis supports data-driven decision-making to improve service efficiency, customer satisfaction, and revenue growth.
 
